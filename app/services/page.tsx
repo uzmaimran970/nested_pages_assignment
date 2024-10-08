@@ -1,7 +1,7 @@
 // pages/services.js
 import styles from "./services.module.css"
 import Navbar from "../page";
-import Link from "next/link";
+
 const Services = () => {
   return (
 
